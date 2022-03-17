@@ -1,7 +1,5 @@
 ## Liste de raccourci clavier utile 
 
-
-
 # General 
 - **CTRL + A** : Tout selectionner
 - **CTRL + C** : Copier
