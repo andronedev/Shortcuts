@@ -1,6 +1,6 @@
 ## Liste de raccourci clavier utile 
 
-# General 
+# Général 
 - **CTRL + A** : Tout selectionner
 - **CTRL + C** : Copier
 - **CTRL + X** : Couper
@@ -8,7 +8,7 @@
 - **CTRL + Z** : Retour en arrière (a la dernière action)
 - **CTRL + X** : Retour en avant (a une action annulé avec **CRTL + Z**, ne fonctionne pas toujours)
 
-# Selection de texte :
+# Sélection de texte :
 - **CTRL + SHIFT + Left** : Selectionner le dernier mot
 - **CTRL + SHIFT + Right** : Selectionner le mot suivant
 - **CTRL + SHIFT + Up** : Selectionner la phrase
